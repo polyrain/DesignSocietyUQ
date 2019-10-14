@@ -2,7 +2,7 @@
 
 ## 1.0 Society Values and Expectations
 
-The Design Society UQ is a society intended for **all** members of the UQ student body and surrounding community with an interest in design. The society recognises the vast diversity of backgrounds and identities that make up the individuals of its membership; and as such, is ***firmly committed to ensuring the society, in all it's venues (Slack, Events, and other areas of note), is a safe space for its members. In saying this, the society has an expectation upon its members that they will:
+The Design Society UQ is a society intended for **all** members of the UQ student body and surrounding community with an interest in design. The society recognises the vast diversity of backgrounds and identities that make up the individuals of its membership; and as such, is **firmly committed** to ensuring the society, in all it's venues (Slack, Events, and other areas of note), is a safe space for its members. In saying this, the society has an expectation upon its members that they will:
 
 - Respect the people within the society; this extends to respecting the unique identity and background diversity that exists within our society. In short, **insults or attacks** on any aspect of a members person is against the values of the society. Discrimination on the basis of gender identity, race, background, religious beliefs, disabilities, and/or sexual orientation are completely disallowed.
 - Not-Safe-For-Work (NSFW) content is prohibited within the society; while you are free to send this type of content outside the society, sending NSFW imagery or content in public areas, to individual members without their permissions, is disallowed.
